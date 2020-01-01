@@ -18,4 +18,5 @@
 5.运行结果如下<br>
 ![](https://github.com/gxglls/lightOS/blob/master/png/osstart.png)
 
-### 如果对实现方式和代码感兴趣，可私聊我，QQ 498340080
+<br>
+如果对实现方式和代码感兴趣，可私聊我，QQ 498340080
