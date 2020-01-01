@@ -9,11 +9,11 @@
 ```bash
   ./bochs -f boch.conf
 ```
-3.选择6运行bochs
+3.选择6运行bochs<br>
 ![](https://github.com/gxglls/lightOS/blob/master/png/bochstart.png)
 
-4.运行bochs后默认是进入调试模式，此时按c直接运行操作系统
+4.运行bochs后默认是进入调试模式，此时按c直接运行操作系统<br>
 ![](https://github.com/gxglls/lightOS/blob/master/png/bochscontinue.png)
 
-5.运行结果如下
+5.运行结果如下<br>
 ![](https://github.com/gxglls/lightOS/blob/master/png/osstart.png)
