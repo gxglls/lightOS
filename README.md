@@ -19,4 +19,3 @@
 ![](https://github.com/gxglls/lightOS/blob/master/png/osstart.png)
 
 <br>
-如果对实现方式和代码感兴趣，可私聊我，QQ 498340080
